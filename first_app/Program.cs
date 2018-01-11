@@ -8,7 +8,7 @@ namespace first_app
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Using Console.WriteLine, you can output any string to the terminal/console");
-            
+            Console.WriteLine("This is test");
         }
     }
 }
