@@ -1,0 +1,10 @@
+D:\files\dojo\csharp\fundamentalsI\bin\Debug\netcoreapp2.0\fundamentalsI.deps.json
+D:\files\dojo\csharp\fundamentalsI\bin\Debug\netcoreapp2.0\fundamentalsI.runtimeconfig.json
+D:\files\dojo\csharp\fundamentalsI\bin\Debug\netcoreapp2.0\fundamentalsI.runtimeconfig.dev.json
+D:\files\dojo\csharp\fundamentalsI\bin\Debug\netcoreapp2.0\fundamentalsI.dll
+D:\files\dojo\csharp\fundamentalsI\bin\Debug\netcoreapp2.0\fundamentalsI.pdb
+D:\files\dojo\csharp\fundamentalsI\obj\Debug\netcoreapp2.0\fundamentalsI.csproj.CoreCompileInputs.cache
+D:\files\dojo\csharp\fundamentalsI\obj\Debug\netcoreapp2.0\fundamentalsI.AssemblyInfoInputs.cache
+D:\files\dojo\csharp\fundamentalsI\obj\Debug\netcoreapp2.0\fundamentalsI.AssemblyInfo.cs
+D:\files\dojo\csharp\fundamentalsI\obj\Debug\netcoreapp2.0\fundamentalsI.dll
+D:\files\dojo\csharp\fundamentalsI\obj\Debug\netcoreapp2.0\fundamentalsI.pdb
