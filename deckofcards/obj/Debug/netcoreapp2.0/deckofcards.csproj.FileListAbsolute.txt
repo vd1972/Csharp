@@ -1,0 +1,10 @@
+D:\files\dojo\csharp\deckofcards\bin\Debug\netcoreapp2.0\deckofcards.deps.json
+D:\files\dojo\csharp\deckofcards\bin\Debug\netcoreapp2.0\deckofcards.runtimeconfig.json
+D:\files\dojo\csharp\deckofcards\bin\Debug\netcoreapp2.0\deckofcards.runtimeconfig.dev.json
+D:\files\dojo\csharp\deckofcards\bin\Debug\netcoreapp2.0\deckofcards.dll
+D:\files\dojo\csharp\deckofcards\bin\Debug\netcoreapp2.0\deckofcards.pdb
+D:\files\dojo\csharp\deckofcards\obj\Debug\netcoreapp2.0\deckofcards.csproj.CoreCompileInputs.cache
+D:\files\dojo\csharp\deckofcards\obj\Debug\netcoreapp2.0\deckofcards.AssemblyInfoInputs.cache
+D:\files\dojo\csharp\deckofcards\obj\Debug\netcoreapp2.0\deckofcards.AssemblyInfo.cs
+D:\files\dojo\csharp\deckofcards\obj\Debug\netcoreapp2.0\deckofcards.dll
+D:\files\dojo\csharp\deckofcards\obj\Debug\netcoreapp2.0\deckofcards.pdb
