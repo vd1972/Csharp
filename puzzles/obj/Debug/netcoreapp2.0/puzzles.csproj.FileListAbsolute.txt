@@ -1,0 +1,10 @@
+D:\files\dojo\csharp\puzzles\obj\Debug\netcoreapp2.0\puzzles.csproj.CoreCompileInputs.cache
+D:\files\dojo\csharp\puzzles\obj\Debug\netcoreapp2.0\puzzles.AssemblyInfoInputs.cache
+D:\files\dojo\csharp\puzzles\obj\Debug\netcoreapp2.0\puzzles.AssemblyInfo.cs
+D:\files\dojo\csharp\puzzles\bin\Debug\netcoreapp2.0\puzzles.deps.json
+D:\files\dojo\csharp\puzzles\bin\Debug\netcoreapp2.0\puzzles.runtimeconfig.json
+D:\files\dojo\csharp\puzzles\bin\Debug\netcoreapp2.0\puzzles.runtimeconfig.dev.json
+D:\files\dojo\csharp\puzzles\bin\Debug\netcoreapp2.0\puzzles.dll
+D:\files\dojo\csharp\puzzles\bin\Debug\netcoreapp2.0\puzzles.pdb
+D:\files\dojo\csharp\puzzles\obj\Debug\netcoreapp2.0\puzzles.dll
+D:\files\dojo\csharp\puzzles\obj\Debug\netcoreapp2.0\puzzles.pdb
