@@ -1,0 +1,10 @@
+D:\files\dojo\csharp\ninjasamurai\obj\Debug\netcoreapp2.0\ninjasamurai.csproj.CoreCompileInputs.cache
+D:\files\dojo\csharp\ninjasamurai\obj\Debug\netcoreapp2.0\ninjasamurai.AssemblyInfoInputs.cache
+D:\files\dojo\csharp\ninjasamurai\obj\Debug\netcoreapp2.0\ninjasamurai.AssemblyInfo.cs
+D:\files\dojo\csharp\ninjasamurai\bin\Debug\netcoreapp2.0\ninjasamurai.deps.json
+D:\files\dojo\csharp\ninjasamurai\bin\Debug\netcoreapp2.0\ninjasamurai.runtimeconfig.json
+D:\files\dojo\csharp\ninjasamurai\bin\Debug\netcoreapp2.0\ninjasamurai.runtimeconfig.dev.json
+D:\files\dojo\csharp\ninjasamurai\bin\Debug\netcoreapp2.0\ninjasamurai.dll
+D:\files\dojo\csharp\ninjasamurai\bin\Debug\netcoreapp2.0\ninjasamurai.pdb
+D:\files\dojo\csharp\ninjasamurai\obj\Debug\netcoreapp2.0\ninjasamurai.dll
+D:\files\dojo\csharp\ninjasamurai\obj\Debug\netcoreapp2.0\ninjasamurai.pdb
