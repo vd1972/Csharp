@@ -1,0 +1,10 @@
+D:\files\dojo\csharp\MusicLinq\bin\Debug\netcoreapp1.1\LinqSkeleton.deps.json
+D:\files\dojo\csharp\MusicLinq\bin\Debug\netcoreapp1.1\LinqSkeleton.runtimeconfig.json
+D:\files\dojo\csharp\MusicLinq\bin\Debug\netcoreapp1.1\LinqSkeleton.runtimeconfig.dev.json
+D:\files\dojo\csharp\MusicLinq\bin\Debug\netcoreapp1.1\LinqSkeleton.dll
+D:\files\dojo\csharp\MusicLinq\bin\Debug\netcoreapp1.1\LinqSkeleton.pdb
+D:\files\dojo\csharp\MusicLinq\obj\Debug\netcoreapp1.1\LinqSkeleton.csproj.CoreCompileInputs.cache
+D:\files\dojo\csharp\MusicLinq\obj\Debug\netcoreapp1.1\LinqSkeleton.AssemblyInfoInputs.cache
+D:\files\dojo\csharp\MusicLinq\obj\Debug\netcoreapp1.1\LinqSkeleton.AssemblyInfo.cs
+D:\files\dojo\csharp\MusicLinq\obj\Debug\netcoreapp1.1\LinqSkeleton.dll
+D:\files\dojo\csharp\MusicLinq\obj\Debug\netcoreapp1.1\LinqSkeleton.pdb
